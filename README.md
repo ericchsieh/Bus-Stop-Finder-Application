@@ -1,1 +1,1 @@
-Busus R US - Bus application to find the nearest bus stop using Google Maps API.
+Busus R Us - Bus application to find the nearest bus stop using Google Maps API.
